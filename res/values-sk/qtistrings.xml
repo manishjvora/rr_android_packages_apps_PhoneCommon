@@ -71,7 +71,7 @@
   <!-- Text for CallFailCause.ACCESS_INFORMATION_DISCARDED = 43 -->
   <string name="callFailed_access_information_discarded">Prístup k informaciám bol zamietnutý</string>
   <!-- Text for CallFailCause.CHANNEL_NOT_AVAIL = 44 -->
-  <string name="callFailed_requested_circuit_or_channel_not_available">požadovaný okruh/kanál nie je dostupný</string>
+  <string name="callFailed_requested_circuit_or_channel_not_available">Požadovaný okruh/kanál nie je dostupný</string>
   <!-- Text for CallFailCause.RESOURCES_UNAVAILABLE_OR_UNSPECIFIED = 47 -->
   <string name="callFailed_resources_unavailable_or_unspecified">Zdroje nie sú dostupné z neznámych dôvodov</string>
   <!-- Text for CallFailCause.QOS_NOT_AVAIL = 49 -->
